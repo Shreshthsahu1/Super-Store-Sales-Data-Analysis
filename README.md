@@ -57,9 +57,10 @@ Developed a business intelligence and exploratory data analysis (EDA) project us
 
 ---
 
-# 📂 Dataset
+# 📂 Demonstration
 
-Sample Superstore Dataset
+Source:
+https://www.linkedin.com/posts/shreshth-sahu_python-dataanalytics-datascience-ugcPost-7316733713915027456-PHY8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYX8zsBtIj89vth2519MNlNYdesX4FWmGI
 
 ---
 
